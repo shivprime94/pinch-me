@@ -1,0 +1,690 @@
+{
+    "copiedOrders": {
+        "data": [
+            {
+                "Asset": "BTC",
+                "TotalInvested": 240000,
+                "TotalReturn": 4477,
+                "AssetReturnPercentage": 0.018654166666666666,
+                "CopiedReturnBySharerSummarys": {
+                    "CopiedReturnBySharerSummary": [
+                        {
+                            "ShareTradeUID": 3,
+                            "ShareTraderName": "b",
+                            "Asset": "BTC",
+                            "TotalInvested": 48000,
+                            "TotalReturn": 891.0000000000018,
+                            "AssetSharerReturnPercentage": 0.018562500000000037,
+                            "CopiedOrderReturnSummarys": {
+                                "CopiedOrderReturnSummarys": [
+                                    {
+                                        "ShareTradeAggId": 3,
+                                        "ShareTrderUID": 3,
+                                        "ShareTraderName": "b",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 1,
+                                        "CopyTradeAggId": 4,
+                                        "OrderId": "6aa38fe6-5455-4753-a747-0a174814db9c",
+                                        "PointsInvested": 16000,
+                                        "Price": 16384,
+                                        "OrderStatus": "NEW",
+                                        "Return": 384.00000000000034,
+                                        "ReturnPercentage": 0.02400000000000002
+                                    },
+                                    {
+                                        "ShareTradeAggId": 3,
+                                        "ShareTrderUID": 3,
+                                        "ShareTraderName": "b",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 11,
+                                        "CopyTradeAggId": 4,
+                                        "OrderId": "62036043-f7c3-4691-a649-82349407b948",
+                                        "PointsInvested": 16000,
+                                        "Price": 16291,
+                                        "OrderStatus": "NEW",
+                                        "Return": 291.00000000000034,
+                                        "ReturnPercentage": 0.018187500000000023
+                                    },
+                                    {
+                                        "ShareTradeAggId": 3,
+                                        "ShareTrderUID": 3,
+                                        "ShareTraderName": "b",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 21,
+                                        "CopyTradeAggId": 4,
+                                        "OrderId": "28e6d5bd-f938-4ab3-b5c8-2b4b2cbe3e57",
+                                        "PointsInvested": 16000,
+                                        "Price": 16216,
+                                        "OrderStatus": "NEW",
+                                        "Return": 216.00000000000108,
+                                        "ReturnPercentage": 0.013500000000000068
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "ShareTradeUID": 4,
+                            "ShareTraderName": "c",
+                            "Asset": "BTC",
+                            "TotalInvested": 45000,
+                            "TotalReturn": 5506.999999999999,
+                            "AssetSharerReturnPercentage": 0.12237777777777775,
+                            "CopiedOrderReturnSummarys": {
+                                "CopiedOrderReturnSummarys": [
+                                    {
+                                        "ShareTradeAggId": 4,
+                                        "ShareTrderUID": 4,
+                                        "ShareTraderName": "c",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 3,
+                                        "CopyTradeAggId": 6,
+                                        "OrderId": "d4d8b732-40c6-404d-8e73-edef6af33486",
+                                        "PointsInvested": 15000,
+                                        "Price": 16788,
+                                        "OrderStatus": "NEW",
+                                        "Return": 1787.9999999999995,
+                                        "ReturnPercentage": 0.11919999999999997
+                                    },
+                                    {
+                                        "ShareTradeAggId": 4,
+                                        "ShareTrderUID": 4,
+                                        "ShareTraderName": "c",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 13,
+                                        "CopyTradeAggId": 6,
+                                        "OrderId": "078ef4d7-8326-4f4a-899f-f29a3283c1f8",
+                                        "PointsInvested": 15000,
+                                        "Price": 16816,
+                                        "OrderStatus": "NEW",
+                                        "Return": 1815.9999999999998,
+                                        "ReturnPercentage": 0.12106666666666666
+                                    },
+                                    {
+                                        "ShareTradeAggId": 4,
+                                        "ShareTrderUID": 4,
+                                        "ShareTraderName": "c",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 23,
+                                        "CopyTradeAggId": 6,
+                                        "OrderId": "850f6551-e974-4206-9235-06349e385b57",
+                                        "PointsInvested": 15000,
+                                        "Price": 16903,
+                                        "OrderStatus": "NEW",
+                                        "Return": 1903.0000000000002,
+                                        "ReturnPercentage": 0.12686666666666668
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "ShareTradeUID": 5,
+                            "ShareTraderName": "d",
+                            "Asset": "BTC",
+                            "TotalInvested": 51000,
+                            "TotalReturn": -5167.000000000001,
+                            "AssetSharerReturnPercentage": -0.1013137254901961,
+                            "CopiedOrderReturnSummarys": {
+                                "CopiedOrderReturnSummarys": [
+                                    {
+                                        "ShareTradeAggId": 5,
+                                        "ShareTrderUID": 5,
+                                        "ShareTraderName": "d",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 5,
+                                        "CopyTradeAggId": 8,
+                                        "OrderId": "475bab17-d156-4b81-bfd7-d8549791eeb1",
+                                        "PointsInvested": 17000,
+                                        "Price": 15229,
+                                        "OrderStatus": "NEW",
+                                        "Return": -1771.0000000000005,
+                                        "ReturnPercentage": -0.10417647058823531
+                                    },
+                                    {
+                                        "ShareTradeAggId": 5,
+                                        "ShareTrderUID": 5,
+                                        "ShareTraderName": "d",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 15,
+                                        "CopyTradeAggId": 8,
+                                        "OrderId": "6450b769-9d0f-427a-8acc-318d9fbbe530",
+                                        "PointsInvested": 17000,
+                                        "Price": 15248,
+                                        "OrderStatus": "NEW",
+                                        "Return": -1752,
+                                        "ReturnPercentage": -0.10305882352941176
+                                    },
+                                    {
+                                        "ShareTradeAggId": 5,
+                                        "ShareTrderUID": 5,
+                                        "ShareTraderName": "d",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 25,
+                                        "CopyTradeAggId": 8,
+                                        "OrderId": "f2e50d31-5b84-419e-abfa-c7412dbe70e5",
+                                        "PointsInvested": 17000,
+                                        "Price": 15356,
+                                        "OrderStatus": "NEW",
+                                        "Return": -1644.0000000000005,
+                                        "ReturnPercentage": -0.0967058823529412
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "ShareTradeUID": 6,
+                            "ShareTraderName": "e",
+                            "Asset": "BTC",
+                            "TotalInvested": 49500,
+                            "TotalReturn": -2457.0000000000014,
+                            "AssetSharerReturnPercentage": -0.049636363636363666,
+                            "CopiedOrderReturnSummarys": {
+                                "CopiedOrderReturnSummarys": [
+                                    {
+                                        "ShareTradeAggId": 6,
+                                        "ShareTrderUID": 6,
+                                        "ShareTraderName": "e",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 7,
+                                        "CopyTradeAggId": 10,
+                                        "OrderId": "2a298052-56c8-4701-9caf-57d776cbcecc",
+                                        "PointsInvested": 16500,
+                                        "Price": 15761,
+                                        "OrderStatus": "NEW",
+                                        "Return": -739.0000000000006,
+                                        "ReturnPercentage": -0.04478787878787882
+                                    },
+                                    {
+                                        "ShareTradeAggId": 6,
+                                        "ShareTrderUID": 6,
+                                        "ShareTraderName": "e",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 17,
+                                        "CopyTradeAggId": 10,
+                                        "OrderId": "7ad8b61a-c3b6-48ee-b3ee-f6c526865074",
+                                        "PointsInvested": 16500,
+                                        "Price": 15656,
+                                        "OrderStatus": "NEW",
+                                        "Return": -844.0000000000003,
+                                        "ReturnPercentage": -0.05115151515151517
+                                    },
+                                    {
+                                        "ShareTradeAggId": 6,
+                                        "ShareTrderUID": 6,
+                                        "ShareTraderName": "e",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 27,
+                                        "CopyTradeAggId": 10,
+                                        "OrderId": "7346e551-5bdf-4dfe-b772-2069c0103a93",
+                                        "PointsInvested": 16500,
+                                        "Price": 15626,
+                                        "OrderStatus": "NEW",
+                                        "Return": -874.0000000000005,
+                                        "ReturnPercentage": -0.052969696969697
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "ShareTradeUID": 7,
+                            "ShareTraderName": "f",
+                            "Asset": "BTC",
+                            "TotalInvested": 46500,
+                            "TotalReturn": 5703.000000000002,
+                            "AssetSharerReturnPercentage": 0.12264516129032262,
+                            "CopiedOrderReturnSummarys": {
+                                "CopiedOrderReturnSummarys": [
+                                    {
+                                        "ShareTradeAggId": 7,
+                                        "ShareTrderUID": 7,
+                                        "ShareTraderName": "f",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 9,
+                                        "CopyTradeAggId": 12,
+                                        "OrderId": "1e4ffb6b-6e00-49a5-892d-ed3f438f2a10",
+                                        "PointsInvested": 15500,
+                                        "Price": 17500,
+                                        "OrderStatus": "NEW",
+                                        "Return": 2000.0000000000016,
+                                        "ReturnPercentage": 0.12903225806451624
+                                    },
+                                    {
+                                        "ShareTradeAggId": 7,
+                                        "ShareTrderUID": 7,
+                                        "ShareTraderName": "f",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 19,
+                                        "CopyTradeAggId": 12,
+                                        "OrderId": "913c54e0-13f6-4d87-99be-6843c8093821",
+                                        "PointsInvested": 15500,
+                                        "Price": 17438,
+                                        "OrderStatus": "NEW",
+                                        "Return": 1938.0000000000016,
+                                        "ReturnPercentage": 0.12503225806451623
+                                    },
+                                    {
+                                        "ShareTradeAggId": 7,
+                                        "ShareTrderUID": 7,
+                                        "ShareTraderName": "f",
+                                        "Asset": "BTC",
+                                        "CopyTradeId": 29,
+                                        "CopyTradeAggId": 12,
+                                        "OrderId": "321cb6ec-da74-43b0-80c9-7947baa83eee",
+                                        "PointsInvested": 15500,
+                                        "Price": 17265,
+                                        "OrderStatus": "NEW",
+                                        "Return": 1764.9999999999986,
+                                        "ReturnPercentage": 0.11387096774193539
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "Asset": "ETH",
+                "TotalInvested": 20100,
+                "TotalReturn": 3792,
+                "AssetReturnPercentage": 0.18865671641791046,
+                "CopiedReturnBySharerSummarys": {
+                    "CopiedReturnBySharerSummary": [
+                        {
+                            "ShareTradeUID": 3,
+                            "ShareTraderName": "b",
+                            "Asset": "ETH",
+                            "TotalInvested": 3600,
+                            "TotalReturn": 1351.9999999999998,
+                            "AssetSharerReturnPercentage": 0.3755555555555555,
+                            "CopiedOrderReturnSummarys": {
+                                "CopiedOrderReturnSummarys": [
+                                    {
+                                        "ShareTradeAggId": 13,
+                                        "ShareTrderUID": 3,
+                                        "ShareTraderName": "b",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 2,
+                                        "CopyTradeAggId": 5,
+                                        "OrderId": "effdb481-5443-4bb2-a30e-2ed5b509dbec",
+                                        "PointsInvested": 1200,
+                                        "Price": 1656,
+                                        "OrderStatus": "NEW",
+                                        "Return": 455.9999999999999,
+                                        "ReturnPercentage": 0.3799999999999999
+                                    },
+                                    {
+                                        "ShareTradeAggId": 13,
+                                        "ShareTrderUID": 3,
+                                        "ShareTraderName": "b",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 12,
+                                        "CopyTradeAggId": 5,
+                                        "OrderId": "38b30993-4547-42dd-a4f7-f6a717d2ddf6",
+                                        "PointsInvested": 1200,
+                                        "Price": 1742,
+                                        "OrderStatus": "NEW",
+                                        "Return": 542,
+                                        "ReturnPercentage": 0.45166666666666666
+                                    },
+                                    {
+                                        "ShareTradeAggId": 13,
+                                        "ShareTrderUID": 3,
+                                        "ShareTraderName": "b",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 22,
+                                        "CopyTradeAggId": 5,
+                                        "OrderId": "27d9b799-9e55-493f-bd5c-d45975514731",
+                                        "PointsInvested": 1200,
+                                        "Price": 1554,
+                                        "OrderStatus": "NEW",
+                                        "Return": 353.9999999999999,
+                                        "ReturnPercentage": 0.29499999999999993
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "ShareTradeUID": 4,
+                            "ShareTraderName": "c",
+                            "Asset": "ETH",
+                            "TotalInvested": 4050,
+                            "TotalReturn": 475,
+                            "AssetSharerReturnPercentage": 0.11728395061728394,
+                            "CopiedOrderReturnSummarys": {
+                                "CopiedOrderReturnSummarys": [
+                                    {
+                                        "ShareTradeAggId": 14,
+                                        "ShareTrderUID": 4,
+                                        "ShareTraderName": "c",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 4,
+                                        "CopyTradeAggId": 7,
+                                        "OrderId": "f1eb40d4-598f-4049-adb7-e8726cd1b162",
+                                        "PointsInvested": 1350,
+                                        "Price": 1562,
+                                        "OrderStatus": "NEW",
+                                        "Return": 212.00000000000006,
+                                        "ReturnPercentage": 0.15703703703703709
+                                    },
+                                    {
+                                        "ShareTradeAggId": 14,
+                                        "ShareTrderUID": 4,
+                                        "ShareTraderName": "c",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 14,
+                                        "CopyTradeAggId": 7,
+                                        "OrderId": "9a052135-98ee-4c9b-86df-76d3647fbc50",
+                                        "PointsInvested": 1350,
+                                        "Price": 1468,
+                                        "OrderStatus": "NEW",
+                                        "Return": 117.99999999999996,
+                                        "ReturnPercentage": 0.08740740740740738
+                                    },
+                                    {
+                                        "ShareTradeAggId": 14,
+                                        "ShareTrderUID": 4,
+                                        "ShareTraderName": "c",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 24,
+                                        "CopyTradeAggId": 7,
+                                        "OrderId": "c29b4220-6a74-438e-88f5-f1b171dd673b",
+                                        "PointsInvested": 1350,
+                                        "Price": 1495,
+                                        "OrderStatus": "NEW",
+                                        "Return": 144.99999999999997,
+                                        "ReturnPercentage": 0.1074074074074074
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "ShareTradeUID": 5,
+                            "ShareTraderName": "d",
+                            "Asset": "ETH",
+                            "TotalInvested": 4200,
+                            "TotalReturn": 47.99999999999996,
+                            "AssetSharerReturnPercentage": 0.011428571428571418,
+                            "CopiedOrderReturnSummarys": {
+                                "CopiedOrderReturnSummarys": [
+                                    {
+                                        "ShareTradeAggId": 15,
+                                        "ShareTrderUID": 5,
+                                        "ShareTraderName": "d",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 6,
+                                        "CopyTradeAggId": 9,
+                                        "OrderId": "28810d14-73b2-4c9c-9b1c-966c91ffd085",
+                                        "PointsInvested": 1400,
+                                        "Price": 1411,
+                                        "OrderStatus": "NEW",
+                                        "Return": 10.999999999999899,
+                                        "ReturnPercentage": 0.007857142857142785
+                                    },
+                                    {
+                                        "ShareTradeAggId": 15,
+                                        "ShareTrderUID": 5,
+                                        "ShareTraderName": "d",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 16,
+                                        "CopyTradeAggId": 9,
+                                        "OrderId": "2a57c362-6312-4d56-89fe-5f25f57e4d54",
+                                        "PointsInvested": 1400,
+                                        "Price": 1433,
+                                        "OrderStatus": "NEW",
+                                        "Return": 33.00000000000001,
+                                        "ReturnPercentage": 0.023571428571428577
+                                    },
+                                    {
+                                        "ShareTradeAggId": 15,
+                                        "ShareTrderUID": 5,
+                                        "ShareTraderName": "d",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 26,
+                                        "CopyTradeAggId": 9,
+                                        "OrderId": "2498d27e-2a41-4e0f-8bf6-9710f3d3aa01",
+                                        "PointsInvested": 1400,
+                                        "Price": 1404,
+                                        "OrderStatus": "NEW",
+                                        "Return": 4.000000000000048,
+                                        "ReturnPercentage": 0.0028571428571428914
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "ShareTradeUID": 6,
+                            "ShareTraderName": "e",
+                            "Asset": "ETH",
+                            "TotalInvested": 3900,
+                            "TotalReturn": 1321.0000000000005,
+                            "AssetSharerReturnPercentage": 0.33871794871794886,
+                            "CopiedOrderReturnSummarys": {
+                                "CopiedOrderReturnSummarys": [
+                                    {
+                                        "ShareTradeAggId": 16,
+                                        "ShareTrderUID": 6,
+                                        "ShareTraderName": "e",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 8,
+                                        "CopyTradeAggId": 11,
+                                        "OrderId": "32fc9f38-c74d-43a1-88fa-c0c44c360d07",
+                                        "PointsInvested": 1300,
+                                        "Price": 1577,
+                                        "OrderStatus": "NEW",
+                                        "Return": 277.0000000000001,
+                                        "ReturnPercentage": 0.21307692307692316
+                                    },
+                                    {
+                                        "ShareTradeAggId": 16,
+                                        "ShareTrderUID": 6,
+                                        "ShareTraderName": "e",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 18,
+                                        "CopyTradeAggId": 11,
+                                        "OrderId": "87d9435b-b571-49cc-9efa-637b68de588a",
+                                        "PointsInvested": 1300,
+                                        "Price": 1817,
+                                        "OrderStatus": "NEW",
+                                        "Return": 517.0000000000001,
+                                        "ReturnPercentage": 0.3976923076923078
+                                    },
+                                    {
+                                        "ShareTradeAggId": 16,
+                                        "ShareTrderUID": 6,
+                                        "ShareTraderName": "e",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 28,
+                                        "CopyTradeAggId": 11,
+                                        "OrderId": "2693652a-8697-484a-9027-e564859eed1b",
+                                        "PointsInvested": 1300,
+                                        "Price": 1827,
+                                        "OrderStatus": "NEW",
+                                        "Return": 527.0000000000001,
+                                        "ReturnPercentage": 0.40538461538461545
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "ShareTradeUID": 7,
+                            "ShareTraderName": "f",
+                            "Asset": "ETH",
+                            "TotalInvested": 4350,
+                            "TotalReturn": 595.9999999999998,
+                            "AssetSharerReturnPercentage": 0.1370114942528735,
+                            "CopiedOrderReturnSummarys": {
+                                "CopiedOrderReturnSummarys": [
+                                    {
+                                        "ShareTradeAggId": 17,
+                                        "ShareTrderUID": 7,
+                                        "ShareTraderName": "f",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 10,
+                                        "CopyTradeAggId": 13,
+                                        "OrderId": "1ef1482a-23c4-4829-bba6-76d5ccc8ec11",
+                                        "PointsInvested": 1450,
+                                        "Price": 1804,
+                                        "OrderStatus": "NEW",
+                                        "Return": 353.9999999999999,
+                                        "ReturnPercentage": 0.24413793103448267
+                                    },
+                                    {
+                                        "ShareTradeAggId": 17,
+                                        "ShareTrderUID": 7,
+                                        "ShareTraderName": "f",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 20,
+                                        "CopyTradeAggId": 13,
+                                        "OrderId": "c22432bc-7cb6-477d-9d55-9b42e4c2e3a2",
+                                        "PointsInvested": 1450,
+                                        "Price": 1571,
+                                        "OrderStatus": "NEW",
+                                        "Return": 120.99999999999996,
+                                        "ReturnPercentage": 0.08344827586206893
+                                    },
+                                    {
+                                        "ShareTradeAggId": 17,
+                                        "ShareTrderUID": 7,
+                                        "ShareTraderName": "f",
+                                        "Asset": "ETH",
+                                        "CopyTradeId": 30,
+                                        "CopyTradeAggId": 13,
+                                        "OrderId": "eae865f5-fd58-4926-b71b-f1ff827f0f55",
+                                        "PointsInvested": 1450,
+                                        "Price": 1571,
+                                        "OrderStatus": "NEW",
+                                        "Return": 120.99999999999996,
+                                        "ReturnPercentage": 0.08344827586206893
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "sharedTrades": {
+        "data": [
+            {
+                "Asset": "BTC",
+                "Reward": 0,
+                "ShareTradeAggsSummarys": [
+                    {
+                        "ID": 5,
+                        "Key": "BTC-5",
+                        "DmKey": "5-BTC",
+                        "UserId": 5,
+                        "UserName": "d",
+                        "PrimarySharerUserId": 0,
+                        "DistributorFlag": "Created By Me",
+                        "Asset": "BTC",
+                        "LinkId": "j7R4lK",
+                        "ShareTradeStatus": "SHARED",
+                        "CopiedFlag": "FALSE",
+                        "CopiedNumber": 1,
+                        "PrimaryCopierNumber": 0,
+                        "Rewards": 0,
+                        "ExpectedReturn": 0,
+                        "HistoricalReturn": 0
+                    }
+                ]
+            },
+            {
+                "Asset": "LTC",
+                "Reward": 0,
+                "ShareTradeAggsSummarys": [
+                    {
+                        "ID": 25,
+                        "Key": "LTC-25",
+                        "DmKey": "5-LTC",
+                        "UserId": 5,
+                        "UserName": "d",
+                        "PrimarySharerUserId": 0,
+                        "DistributorFlag": "Created By Me",
+                        "Asset": "LTC",
+                        "LinkId": "nWMUcQ",
+                        "ShareTradeStatus": "SHARED",
+                        "CopiedFlag": "FALSE",
+                        "CopiedNumber": 0,
+                        "PrimaryCopierNumber": 0,
+                        "Rewards": 0,
+                        "ExpectedReturn": 0,
+                        "HistoricalReturn": 0
+                    }
+                ]
+            },
+            {
+                "Asset": "XRP",
+                "Reward": 0,
+                "ShareTradeAggsSummarys": [
+                    {
+                        "ID": 35,
+                        "Key": "XRP-35",
+                        "DmKey": "5-XRP",
+                        "UserId": 5,
+                        "UserName": "d",
+                        "PrimarySharerUserId": 0,
+                        "DistributorFlag": "Created By Me",
+                        "Asset": "XRP",
+                        "LinkId": "554l9D",
+                        "ShareTradeStatus": "SHARED",
+                        "CopiedFlag": "FALSE",
+                        "CopiedNumber": 0,
+                        "PrimaryCopierNumber": 0,
+                        "Rewards": 0,
+                        "ExpectedReturn": 0,
+                        "HistoricalReturn": 0
+                    }
+                ]
+            },
+            {
+                "Asset": "BNB",
+                "Reward": 0,
+                "ShareTradeAggsSummarys": [
+                    {
+                        "ID": 45,
+                        "Key": "BNB-45",
+                        "DmKey": "2-BNB",
+                        "UserId": 5,
+                        "UserName": "a",
+                        "PrimarySharerUserId": 2,
+                        "DistributorFlag": "Distributed by me",
+                        "Asset": "BNB",
+                        "LinkId": "9G4qtWf",
+                        "ShareTradeStatus": "SHARED",
+                        "CopiedFlag": "FALSE",
+                        "CopiedNumber": 0,
+                        "PrimaryCopierNumber": 0,
+                        "Rewards": 0,
+                        "ExpectedReturn": 0.51,
+                        "HistoricalReturn": 0.58
+                    }
+                ]
+            },
+            {
+                "Asset": "ETH",
+                "Reward": 0,
+                "ShareTradeAggsSummarys": [
+                    {
+                        "ID": 15,
+                        "Key": "ETH-15",
+                        "DmKey": "2-ETH",
+                        "UserId": 5,
+                        "UserName": "a",
+                        "PrimarySharerUserId": 2,
+                        "DistributorFlag": "Distributed by me",
+                        "Asset": "ETH",
+                        "LinkId": "uGpZnf",
+                        "ShareTradeStatus": "SHARED",
+                        "CopiedFlag": "FALSE",
+                        "CopiedNumber": 1,
+                        "PrimaryCopierNumber": 0,
+                        "Rewards": 0,
+                        "ExpectedReturn": 0.77,
+                        "HistoricalReturn": 0.04
+                    }
+                ]
+            }
+        ]
+    }
+}

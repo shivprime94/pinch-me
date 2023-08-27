@@ -1,0 +1,44 @@
+import React from 'react';
+import {SvgXml, SvgUri} from 'react-native-svg';
+const SvgComponent = ({svg, svgStyle}) => {
+	const xml = `<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15.0577 29.4365C23.0651 29.4365 29.5563 22.9453 29.5563 14.938C29.5563 6.93067 23.0651 0.439453 15.0577 0.439453C7.05042 0.439453 0.559208 6.93067 0.559208 14.938C0.559208 22.9453 7.05042 29.4365 15.0577 29.4365Z" fill="#D99E4E"/>
+<path d="M14.5209 29.4385C22.5282 29.4385 29.0194 22.9473 29.0194 14.9399C29.0194 6.93262 22.5282 0.441406 14.5209 0.441406C6.51355 0.441406 0.0223351 6.93262 0.0223351 14.9399C0.0223351 22.9473 6.51355 29.4385 14.5209 29.4385Z" fill="#FFF0A8"/>
+<g filter="url(#filter0_i_4667_16061)">
+<path d="M14.5207 27.2168C12.8623 27.2168 11.255 26.8929 9.74258 26.2528C8.2812 25.6344 6.96773 24.7489 5.83947 23.6207C4.71121 22.4924 3.82575 21.1796 3.2073 19.7176C2.56791 18.2058 2.24331 16.5978 2.24331 14.9395C2.24331 13.2811 2.56791 11.6738 3.2073 10.1614C3.82575 8.7 4.71121 7.38654 5.83947 6.25828C6.96773 5.13002 8.28055 4.24455 9.74258 3.6261C11.2543 2.98671 12.8623 2.66211 14.5207 2.66211C16.179 2.66211 17.7863 2.98671 19.2988 3.6261C20.7601 4.24455 22.0736 5.13002 23.2019 6.25828C24.3301 7.38654 25.2156 8.69935 25.834 10.1614C26.4734 11.6731 26.798 13.2811 26.798 14.9395C26.798 16.5978 26.4734 18.2051 25.834 19.7176C25.2156 21.1789 24.3301 22.4924 23.2019 23.6207C22.0736 24.7489 20.7608 25.6344 19.2988 26.2528C17.787 26.8922 16.179 27.2168 14.5207 27.2168Z" fill="#FFE27A"/>
+</g>
+<g filter="url(#filter1_d_4667_16061)">
+<path d="M16.2439 18.3033H13.6032V21.5964C13.6032 22.3549 12.7734 22.9537 11.5286 22.9537C10.2839 22.9537 9.45406 22.3549 9.45406 21.5964V8.42445C9.45406 7.5861 10.0764 6.92773 10.869 6.92773H16.2446C19.8473 6.92773 22.0351 8.9035 22.0351 12.2968V13.035C22.0351 16.2679 19.9225 18.3039 16.2446 18.3039L16.2439 18.3033ZM17.8663 12.2758C17.8663 11.3577 17.4324 10.7189 16.1686 10.7189H13.7924C13.6791 10.7189 13.6039 10.7988 13.6039 10.9185V14.4113H16.1693C17.4893 14.4113 17.8669 13.8125 17.8669 13.054V12.2758H17.8663Z" fill="url(#paint0_linear_4667_16061)"/>
+</g>
+<defs>
+<filter id="filter0_i_4667_16061" x="2.24331" y="2.66211" width="24.5547" height="25.5941" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1.03938"/>
+<feGaussianBlur stdDeviation="1.03938"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.879167 0 0 0 0 0.508846 0 0 0 0 0.113559 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_4667_16061"/>
+</filter>
+<filter id="filter1_d_4667_16061" x="7.3753" y="6.92773" width="16.7385" height="20.1829" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2.07876"/>
+<feGaussianBlur stdDeviation="1.03938"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.843137 0 0 0 0 0.482353 0 0 0 0 0.113725 0 0 0 0.7 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4667_16061"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4667_16061" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_4667_16061" x1="15.7446" y1="6.92773" x2="15.7446" y2="22.9537" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
+`;
+
+	return <SvgXml xml={xml} width="40" height="40" {...svgStyle} />;
+};
+export default SvgComponent;

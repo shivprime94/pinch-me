@@ -1,0 +1,15 @@
+export {default as Home} from './home';
+export {default as Dashboard} from './dashboard';
+export {default as Preview} from './preview';
+export {default as PrivacyPolicy} from './privacy-policy';
+export {default as About} from './about';
+export {default as Disclaimer} from './disclaimer';
+export {default as TermsOfUse} from './terms-of-use';
+export {default as Binance} from './binance';
+export {default as Landing} from './game/landing';
+export {default as GamePreview} from './game/preview';
+export {default as ProfilePage} from './game/ProfilePage';
+export {default as CreateShareEarn} from './game/CreateShareEarn';
+export {default as TabsBelowCards} from './game/TabsBelowCards';
+export {default as Portfolio} from './game/portfolio';
+export {default as BottomNavigation} from './game/BottomNavigation';

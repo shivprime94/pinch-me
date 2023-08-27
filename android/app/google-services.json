@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "450151167377",
+    "project_id": "pinch-app-370316",
+    "storage_bucket": "pinch-app-370316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450151167377:android:0d8c3928c40fdc7fe71630",
+        "android_client_info": {
+          "package_name": "com.pinch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450151167377-prp14d9f8fp7rb695r0ga0okvhpcd0dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinch",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "450151167377-5k3s9s5c1qfr1viktmt18ddem3d98ijj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3lx0AzKxVXGy3X6-JdxU7PK1KY-x2uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450151167377-5k3s9s5c1qfr1viktmt18ddem3d98ijj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
